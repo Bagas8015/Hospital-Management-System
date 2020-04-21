@@ -27,8 +27,8 @@ Example to run this applications in Python PyQT5, based on M. Bagas Pradana vide
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0 License - see the [LICENSE](https://github.com/bagas050201/Hospital-Management-System/blob/master/LICENSE) file for details
+This project is licensed under the GNU General Public License v3.0 License - see the [LICENSE](https://github.com/Bagas8015/Hospital-Management-System/blob/master/LICENSE) file for details
 
 ## Authors
 
-* **Muhammad Bagas Pradana** - *Ilmu Komputer Universitas Negeri Jakarta* - [bagas050201](https://github.com/bagas050201)
+* **Muhammad Bagas Pradana** - *Ilmu Komputer Universitas Negeri Jakarta* - [Bagas8015](https://github.com/Bagas8015)
